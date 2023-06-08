@@ -3,6 +3,7 @@ authenti-chatai-cloudbuild: chatbot for product verification
 
 This package can be used from within other python packages, or as a standalone CLI service.
 
+![Tests](https://github.com/samarth1029/authentiChatAI/actions/workflows/deploy.yaml/badge.svg)
 
 
 # Usage
